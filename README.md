@@ -1,4 +1,4 @@
-# `knapsack_pro` ruby gem
+# `knapsack_pro` ruby gemt
 
 <p align="center">
   <a href="https://knapsackpro.com?utm_source=github&utm_medium=readme&utm_campaign=knapsack_pro-ruby_gem&utm_content=hero_logo">
